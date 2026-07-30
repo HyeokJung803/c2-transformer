@@ -1,5 +1,6 @@
 ## mission 1
 <img width="690" height="330" alt="image" src="https://github.com/user-attachments/assets/e1f88ca6-5b43-4879-a6d8-3f4e6b43f976" />
+
 ## ✍️ 제출 — 두 가지를 적는다
 
 > ① 층별 모양은 일정한형태로 전부 같았다.
@@ -10,10 +11,12 @@
 
 ## mission 2
 <img width="990" height="370" alt="image" src="https://github.com/user-attachments/assets/3922ff19-7ab1-4203-a74f-f164d37e3ef4" />
+
 > 잔차 없이 쌓으면 약 5 층부터 신호(또는 기울기)가 사실상 0이 되어 학습이 불가능해진다.
 
 ## mission 3
 <img width="689" height="350" alt="image" src="https://github.com/user-attachments/assets/d6d8ec22-7d6b-4110-a806-2c398a7e51b5" />
+
 > 논문·BERT 는 post-LN 이고 GPT-2 이후는 pre-LN 이다.
 > 깊게 쌓았을 때 논문·BERT 쪽은 값의 크기가 그대로였고, GPT-2 쪽은 계속 커졌다.
 
