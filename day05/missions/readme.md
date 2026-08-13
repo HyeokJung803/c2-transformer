@@ -2,7 +2,9 @@
 <img width="1014" height="405" alt="image" src="https://github.com/user-attachments/assets/344667de-e56a-4351-8724-750f1d4d9321" />
 ```
 내 프롬프트 : 고등학교 등교 첫 날
+
 제일 읽을 만했던 것 : greedy           (greedy / top_p / temperature 중 하나)
+
 그렇게 본 이유 한 줄 : 이 시대는 아직도 코로나가 확증하고 있다는 게 신기했다.
 ```
 
