@@ -87,6 +87,8 @@
 
 그 위로 더 올렸을 때 달라졌나 (예/아니오 + 한 줄) : 올릴 수록 달라졌지만 1.5 이후로는 달라진 점이 없다
 
+
+
 ## mission3
 <img width="921" height="345" alt="image" src="https://github.com/user-attachments/assets/1cc60f5a-a5a4-4b87-a458-40ae666645b3" />
 고른 결과 하나를 아래 표로 정리해서 낸다.
